@@ -42,6 +42,7 @@ The table of content configuration (legend.xsd) files can be modified for own pu
 The configurations can be combined with legend profiles configured by GEONIS Administrator.
 
 <ins> Important hint: </ins>
+
 Even though the data are not visualized all data from the source INTERLIS files are imported. Just the table of content configuration file must be extended by the other Topics.
 Restrictions of the available configuration and documentation
 *	The delivered detailed manual is German only. But with more advanced GEONIS configuration knowledge there is no need for it.
