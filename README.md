@@ -46,3 +46,8 @@ Even though the data are not visualized all data from the source INTERLIS files 
 Restrictions of the available configuration and documentation
 *	The delivered detailed manual is German only. But with more advanced GEONIS configuration knowledge there is no need for it.
 *	The visualization is configured for the topics based on the data model DM.01-AV-CH_LV95. The queries within the table of content configuration (legend.xsd) can be easily changed with the other languages or the topics from the cantons extensions.
+
+# Restrictions of the available configuration and documentation
+
+* The delivered detailed manual is German only. But with more advanced GEONIS configuration knowledge there is no need for it.
+* The visualization is configured for the topics based on the data model DM.01-AV-CH_LV95. The queries within the table of content configuration (legend.xsd) can be easily changed with the other languages or the topics from the cantons extensions.
